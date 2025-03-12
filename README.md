@@ -1,18 +1,3 @@
-👋 Hi, I'm Rajashekar Panuganti</br>
-🚀 Data Science & Analytics | Business Analysis | AI-Driven Finance Solutions</br>
-
-🔍 Passionate about transforming data into actionable insights and leveraging AI-driven automation to optimize financial and business operations. With a strong foundation in data science, business analysis, and financial technology, I specialize in real-time analytics, predictive modeling, automation, and compliance-driven data solutions.</br>
-🛠 Tech Stack & Tools</br>
-📌 Languages & Frameworks: Python (pandas, scikit-learn), SQL, Apache Spark, Snowflake</br>
-📌 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn</br>
-📌 Databases & Cloud: SQL Server, PostgreSQL, Snowflake, AWS</br>
-📌 Finance & Security: SWIFT gpi, JPM Coin, ISO 20022, PCI DSS, SOX</br>
-
-📫 Let's Connect!</br>
-📧 Email: rajpanuganti09@gmail.com</br>
-🔗 LinkedIn: https://www.linkedin.com/in/rajashekar-panuganti/</br>
-🌐 Portfolio: https://rajashekar-panuganti.github.io/Sample-data-analyst-portfolio/
-
 # 💫 About Me:
 👋 Hi, I'm Rajashekar Panuganti<br>🚀 Data Science & Analytics | Business Analysis | AI-Driven Finance Solutions<br><br>🔍 Passionate about transforming data into actionable insights and leveraging AI-driven automation to optimize financial and business operations. With a strong foundation in data science, business analysis, and financial technology, I specialize in real-time analytics, predictive modeling, automation, and compliance-driven data solutions.<br>🛠 Tech Stack & Tools<br>📌 Languages & Frameworks: Python (pandas, scikit-learn), SQL, Apache Spark, Snowflake<br>📌 Data Visualization: Power BI, Tableau, Matplotlib, Seaborn<br>📌 Databases & Cloud: SQL Server, PostgreSQL, Snowflake, AWS<br>📌 Finance & Security: SWIFT gpi, JPM Coin, ISO 20022, PCI DSS, SOX<br><br>📫 Let's Connect!<br>📧 Email: rajpanuganti09@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/rajashekar-panuganti/<br>🌐 Portfolio: https://rajashekar-panuganti.github.io/Sample-data-analyst-portfolio/<br>
 
